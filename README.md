@@ -1,2 +1,2 @@
-# bank
+# Bank
 Bank Management System
